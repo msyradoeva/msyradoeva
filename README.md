@@ -79,6 +79,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат от QA.Studio»">](https://raw.githubusercontent.com/msyradoeva/msyradoeva/refs/heads/main/certificate.png)
 [<img src="/travel_guide_retest-en.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/msyradoeva/msyradoeva/refs/heads/main/travel_guide_retest-en.png)
 
 <br>
@@ -90,8 +91,8 @@
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:msyradoeva@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MARGO_RI_RUS)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
 
